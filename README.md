@@ -84,5 +84,7 @@ visitor can view one post at a time
 
 - install all packages in requirements.txt file  **pip install -r requirements.txt**
 - start server **uvicorn main:app --reload**
+- install all react packages **npm install**
+- start the client **npm start**
 
 ### End
