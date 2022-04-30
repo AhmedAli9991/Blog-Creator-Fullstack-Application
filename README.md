@@ -54,6 +54,9 @@ visitor can view all posts that the owner of that blog has made
 
 visitor can view one post at a time 
 
+### Visitor
+![screencapture-localhost-3000-string-2022-04-30-23_45_50](https://user-images.githubusercontent.com/93770002/166119383-92043fe6-62b8-41f6-86e6-80e7651d5bad.png)
+
 
 ![screencapture-localhost-3000-string-626d7d8a5ccc21266ceb61c6-2022-04-30-23_48_07](https://user-images.githubusercontent.com/93770002/166119373-dfbad23c-c24d-403e-9be9-90d9cd67b977.png)
 
