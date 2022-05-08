@@ -70,7 +70,7 @@ visitor can view one post at a time
 ![screencapture-localhost-3000-Dashboard-Add-2022-04-30-23_03_54](https://user-images.githubusercontent.com/93770002/166119461-df0e81ad-ade4-41a6-b6fc-f3f5f2fb1f7f.png)
 
 
-!![screencapture-localhost-3000-Dashboard-626d7d8a5ccc21266ceb61c6-2022-04-30-23_41_17](https://user-images.githubusercontent.com/93770002/166119499-24206d5c-b0cb-4acf-a10a-1d9bdaccfb30.png)
+![screencapture-localhost-3000-Dashboard-626d7d8a5ccc21266ceb61c6-2022-04-30-23_41_17](https://user-images.githubusercontent.com/93770002/166119499-24206d5c-b0cb-4acf-a10a-1d9bdaccfb30.png)
 
 
 
