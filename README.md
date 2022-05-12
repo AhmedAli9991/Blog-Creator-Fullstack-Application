@@ -1,5 +1,7 @@
-# Blog-Creator-API
-This is a blog creation app where user can register and make a blog and others can visit that blog also uses allows user to upload images
+# Blog-Creator-APP
+This is a blog creation app where user can register and make a blog 
+and others can visit that blog also uses allows user to upload images
+it was made using fastAPI React with ChakraUI and MongoDB
 
 ## tools used
 
